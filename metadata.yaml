@@ -1,0 +1,26 @@
+_repo: Lodovico-il-Moro-b-Romanzo-storico_71403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Campiglio, Giovanni
+    gutenberg_agent_id: '56213'
+    url: http://www.gutenberg.org/2009/agents/56213
+description: ''
+gutenberg_issued: '2023-08-14'
+identifiers:
+  gutenberg: '71403'
+language: it
+pgterms:marc905: 20170125080539campiglio
+pgterms:marc906: '1837'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This transcription was produced from images generously made available by Bayerische
+  Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aMilano :$bGaspare Truffi, $c1837.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lodovico il Moro : $b Romanzo storico'
+url: http://www.gutenberg.org/ebooks/71403
