@@ -1,11 +1,16 @@
 _repo: Lodovico-il-Moro-b-Romanzo-storico_71403
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71403-h/images/cover.jpg
 creator:
   author:
     agent_name: Campiglio, Giovanni
     gutenberg_agent_id: '56213'
     url: http://www.gutenberg.org/2009/agents/56213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71403#Lodovico-il-Moro-b-Romanzo-storico
 gutenberg_issued: '2023-08-14'
 identifiers:
   gutenberg: '71403'
